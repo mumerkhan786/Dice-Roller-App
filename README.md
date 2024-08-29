@@ -9,7 +9,7 @@ A new Flutter project.
 ### Features
 
 <ul>
-    <li><b>Splash Screen:<b> Displays a logo and a loading indicator for 5 seconds before navigating to the main screen.<li>
-    <li><b>Home Screen:<b> Shows a gradient background with dice roller functionality.<li>
-    <li><b>Dice Roller:<b> Rolls two dice when the button is pressed and displays the result.<li>
-<ul>
+    <li><Strong>Splash Screen:</Strong> Displays a logo and a loading indicator for 5 seconds before navigating to the main screen.</li>
+    <li><Strong>Home Screen:</Strong> Shows a gradient background with dice roller functionality.</li>
+    <li><Strong>Dice Roller:</Strong> Rolls two dice when the button is pressed and displays the result.</li>
+</ul>
