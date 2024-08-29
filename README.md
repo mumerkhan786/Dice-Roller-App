@@ -1,16 +1,15 @@
-# dice_roller
+# Dice Roller App
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+<p>Dice Roller is a simple Flutter application that simulates rolling two dice. The app features a splash screen followed by a main screen where users can roll the dice by pressing a button. The dice images change to display the results of each roll.<p>
 
-A few resources to get you started if this is your first Flutter project:
+### Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<ul>
+    <li><b>Splash Screen:<b> Displays a logo and a loading indicator for 5 seconds before navigating to the main screen.<li>
+    <li><b>Home Screen:<b> Shows a gradient background with dice roller functionality.<li>
+    <li><b>Dice Roller:<b> Rolls two dice when the button is pressed and displays the result.<li>
+<ul>
